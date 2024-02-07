@@ -6,7 +6,7 @@
 public class Page9 {
      public static void main (String[] args){
         System.out.println("Hi"); //Message to user
-        System.out.println("LabOneA"); //Assignment
+        System.out.println("Page9"); //Assignment
     }
 }
 /* if you want to write a detailed comment, and it wraps
